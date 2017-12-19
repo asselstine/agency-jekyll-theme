@@ -1,0 +1,26 @@
+.overlay-container {
+  position: relative;
+  background-color: red;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.overlay-container__content {
+  min-height: 200px;
+  background-color: black;
+}
+
+.overlay-container__content__media {
+  width: '100%';
+}
+
+.overlay-content {
+
+}
