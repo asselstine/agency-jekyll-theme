@@ -1,19 +1,16 @@
 .value--bg-1 {
   background-color: red;
   color: white;
-  padding: 4rem 0 4rem 0;
 }
 
 .value--bg-2 {
   background-color: white;
   color: black;
-  padding: 4rem 0 4rem 0;
 }
 
 .value--bg-3 {
   background-color: black;
   color: white;
-  padding: 4rem 0 4rem 0;
 }
 
 .value__img-container {
