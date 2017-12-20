@@ -1,8 +1,9 @@
-url: https://asselstine.github.io/replay-landing-page/
-baseurl: /replay-landing-page
+url: https://asselstine.github.io/replay-race-media/
+baseurl: /replay-race-media
 
 # Site settings
 title: Replay Race Media
+app_name: Replay
 email: mail.asselstine@gmail.com
 description: "Replay Race Media adds interactive telemetry to video using Strava"
 
