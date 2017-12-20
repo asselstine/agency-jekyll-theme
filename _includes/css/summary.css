@@ -1,0 +1,13 @@
+.summary_red-logo {
+  text-align: left;
+}
+
+@media screen and (min-width: 768px) {
+  .summary_red-logo {
+    text-align: right;
+  }
+}
+
+.summary_red-logo_img {
+  max-width: 80px;
+}
