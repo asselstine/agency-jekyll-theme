@@ -1,0 +1,35 @@
+
+.uci {
+  display: table;
+  width: 80px;
+  z-index: -1;
+  height: 400px;
+  transform: rotate(45deg);
+  position: absolute;
+  top: -100px;
+  left: -45px;
+}
+
+.uci * {
+  display: table-cell;
+}
+
+.uci_1 {
+  background-color: #3FA2EF;
+}
+
+.uci_2 {
+  background-color: #F63947;
+}
+
+.uci_3 {
+  background-color: black;
+}
+
+.uci_4 {
+  background-color: #F8D056;
+}
+
+.uci_5 {
+  background-color: #3CAD75;
+}

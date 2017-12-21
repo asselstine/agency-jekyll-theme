@@ -6,6 +6,10 @@ layout: style
   padding: 4rem 0 4rem 0;
 }
 
+.sm-block-padding {
+  padding: 1rem 0 1rem 0;
+}
+
 .text-center {
   text-align: center;
 }

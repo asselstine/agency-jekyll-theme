@@ -3,5 +3,7 @@
 {% include css/overlay.css %}
 {% include css/value.css %}
 {% include css/header.css %}
+{% include css/footer.css %}
+{% include css/uci.css %}
 {% include css/summary.css %}
 {{ content }}
