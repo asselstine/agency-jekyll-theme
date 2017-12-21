@@ -1,5 +1,24 @@
+.header_h {
+  margin: 0.2em 0;
+}
+
 .header-bg-1 {
   background-color: black;
+}
+
+.header_img {
+  width: 120px;
+}
+
+@media screen and (min-width: 768px) {
+  .header_img {
+    width: 170px;
+  }
+
+  .header_h {
+    margin-top: 21px;
+    margin-bottom: 10.5px
+  }
 }
 
 .powered-by-strava {
