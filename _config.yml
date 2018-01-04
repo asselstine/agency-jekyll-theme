@@ -5,7 +5,7 @@ baseurl: /replay-race-media
 title: Replay Race Media
 app_name: Replay
 email: mail.asselstine@gmail.com
-description: "Replay Race Media adds interactive telemetry to video using Strava"
+description: Interactive video telemetry for iOS. Powered by Strava.
 
 # Team names, titles and social links
 people:
