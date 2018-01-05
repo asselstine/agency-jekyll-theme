@@ -24,3 +24,8 @@
 .powered-by-strava {
   margin-top: -12px;
 }
+
+.overlay-container_content_img,
+.overlay-container_content_media {
+  opacity: 0;
+}
