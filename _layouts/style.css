@@ -6,4 +6,5 @@
 {% include css/footer.css %}
 {% include css/uci.css %}
 {% include css/summary.css %}
+{% include css/mailchimp.css %}
 {{ content }}

@@ -8,6 +8,9 @@ body {
     overflow-x: hidden;
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #{{ site.data.template.color.secondary-dark }};
+    font-size: 24px;
+    line-height: 1.4;
+    font-weight: 300;
 }
 
 .text-muted {
@@ -19,9 +22,10 @@ body {
 }
 
 p {
-    font-size: 24px;
-    font-weight: 300;
-    line-height: 1.4;
+}
+
+li + li {
+  margin-top: 1em;
 }
 
 p.large {

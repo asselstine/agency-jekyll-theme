@@ -13,6 +13,11 @@
   color: white;
 }
 
+.value--bg-4 {
+  background-color: #A4C439;
+  color: 'black';
+}
+
 .value__img-container {
   text-align: center;
 }

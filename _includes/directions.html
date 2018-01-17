@@ -1,15 +1,33 @@
+<div class='value--bg-2'>
   <div class='container'>
     <div class='row'>
-      <div class='col-sm-12 text-center'>
+      <div class='col-sm-12'>
         <div class='block-padding'>
-          <h2>How It Works</h2>
-          <p>{{ site.app_name }} combines Strava activities with videos by aligning their start times.</p>
-          <p>Some videos are automatic, but most will require a manual alignment.</p>
-          <p>Fortunately, it's easy to do and {{ site.app_name }} will let you know when you need to do it.</p>
-      </div>
-      <div class='block-padding'>
-        <h2>Give it a try!</h2>
-        <p>...and make sure to let us know what you think.  We love getting feedback.</p>
+          <h2 class='text-center'>How It Works</h2>
+          <p class='sm-block-padding'>
+            <ol>
+              <li>
+                Record some POV video of a Strava ride
+              </li>
+              <li>
+                Open {{ site.app_name }}, add the video, and attach the Strava activity
+              </li>
+              <li>
+                Line up the video with the activity using an intuitive interface
+              </li>
+              <li>
+                Watch your race replay!
+              </li>
+            </ol>
+          </p>
+        </div>
+        <div class='bottom-block-padding'>
+          <h2 class='text-center'>Give it a try</h2>
+          <p class='text-center sm-block-padding'>...and let us know what you think. We love getting feedback.</p>
+          <p class='text-center'>
+            {% include app-store.html %}
+          </p>
+        </div>
       </div>
     </div>
   </div>
