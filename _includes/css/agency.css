@@ -21,6 +21,10 @@ body {
     color: #{{ site.data.template.color.primary }};
 }
 
+ol {
+  list-style-position: inside;
+}
+
 p {
 }
 
